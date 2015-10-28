@@ -1,7 +1,7 @@
 {
     "name": "acseo/xmlrpc_lib",
     "description": "usefull lib to make xmlrpc calls",
-    "keywords": ["XML-RPC", ,
+    "keywords": ["XML-RPC"]
     "homepage": "https://github.com/acseo/xmlrpc_lib",
     "license": "MIT",
     "authors": [
