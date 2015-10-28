@@ -13,5 +13,6 @@
     "autoload": {
         "psr-0": { "ACSEO\\XmlRpc": "" }
     },
-    "target-dir": "ACSEO/XmlRpc"
+    "target-dir": "ACSEO/XmlRpc",
+    "minimum-stability": "dev"
 }
