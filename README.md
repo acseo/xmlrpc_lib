@@ -1,6 +1,7 @@
 # xmlrpc_lib
 
 ## Licence
+```
 // by Edd Dumbill (C) 1999-2002
 // <edd@usefulinc.com>
 // $Id: xmlrpc.inc,v 1.174 2009/03/16 19:36:38 ggiunta Exp $
@@ -36,3 +37,4 @@
 // STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 // ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
 // OF THE POSSIBILITY OF SUCH DAMAGE.
+```
